@@ -12,12 +12,12 @@ Hello stranger viewing this code
 <tr><td valign="top" width=50%>
 Hi, I am <b>Prashant Piyush</b><br>
 <br>
-  
-Being a developer :man_technologist: I am curious to learn 🌱 about:<br>
-  - Programming Languages
-  - Web servers & networking
-  - How to write better software
-<br>
+Being a developer :man_technologist: I am curious to learn 🌱 about:
+<ul>
+  <li>Programming Languages</li>
+  <li>Web servers & networking</li>
+  <li>How to write better software</li>
+</ul>
 I also like competitive programming:
 <ul>
   <li><a href="https://codeforces.com/profile/prashantpiyush" title="Prashant - CF">Prashant on codeforces.com</a></li>
