@@ -8,6 +8,7 @@ Hello stranger viewing this code
 
 ![do_something](https://github.com/prashantpiyush/prashantpiyush/blob/master/do_something.jpeg?raw=true)
 
+<!--
 <table>
 <tr><td valign="top" width=50%>
 Hi, I am <b>Prashant Piyush</b><br>
@@ -39,8 +40,9 @@ When I am not coding I love to read books. Some of the books that I cherish are:
 </td>
 </tr>
 </table>
-
+-->
 ----------
+<!--
 <p align="center">
 You can view my profile on other sites too :smile:
 <br><br>
@@ -50,3 +52,4 @@ You can view my profile on other sites too :smile:
 &nbsp;&nbsp;
 <a title="Prashant - Goodreads" rel="nofollow" href="https://www.goodreads.com/user/show/100888714-prashant-piyush" target="_blank"><img alt="goodreads" src="https://raw.githubusercontent.com/prashantpiyush/prashantpiyush/f6b02d9e1452bad3ee9209cec3d036511f01ed50/goodreads.svg" height=25px width=25px /></a>
 </p>
+-->
